@@ -1,5 +1,4 @@
 PODS:
-  - CoreDataStackManager (1.0.0)
   - Ensembles/Core (1.8)
   - Ensembles/Multipeer (1.8):
     - Ensembles/Core
@@ -7,20 +6,17 @@ PODS:
   - SSZipArchive (2.1.4)
 
 DEPENDENCIES:
-  - CoreDataStackManager
   - Ensembles/Multipeer
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
-    - CoreDataStackManager
     - Ensembles
     - SSZipArchive
 
 SPEC CHECKSUMS:
-  CoreDataStackManager: da66648a0b23e6dea5aa358df8d77502841eca06
   Ensembles: 6f04632bf2aa35cc69f8ffbc259396afe2f0501e
   SSZipArchive: 41455d4b8d2b6ab93990820b50dc697c2554a322
 
-PODFILE CHECKSUM: ac2091be548b390357f0b1aff891dc42fc09c194
+PODFILE CHECKSUM: 45cf0eeda0cc546b65c6b52953c32d975eac1505
 
 COCOAPODS: 1.6.1
